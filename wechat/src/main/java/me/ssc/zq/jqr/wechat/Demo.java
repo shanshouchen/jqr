@@ -1,4 +1,4 @@
-package com.zq.jqr.wechat;
+package me.ssc.zq.jqr.wechat;
 
 
 import com.google.gson.Gson;
